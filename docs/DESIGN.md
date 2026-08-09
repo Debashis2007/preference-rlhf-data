@@ -1,7 +1,7 @@
 # Design: Preference RLHF Data
 
 **Project:** `preference-rlhf-data`  
-**Parent system design:** [08 — Fine-Tuning / Eval Data Pipelines](../08-finetuning-eval-data-pipelines.md)
+**Parent system design:** [08 — Fine-Tuning / Eval Data Pipelines](https://github.com/Debashis2007/preference-rlhf-data/blob/main/08-finetuning-eval-data-pipelines.md)
 
 ## 1. What this POC demonstrates
 
