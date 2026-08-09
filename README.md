@@ -1,5 +1,7 @@
 # Use Case: Preference / RLHF Data Prep
 
+**YouTube walkthrough:** [Preference Rlhf Data — System Design #Shorts](https://youtu.be/tswoshPKaUE)
+
 **Design doc:** [docs/DESIGN.md](./docs/DESIGN.md) — architecture, patterns, and why.
 
 
@@ -46,6 +48,9 @@ Prompt pool → rater UI (guideline vN)
 
 
 ## Design walkthrough (opens on GitHub)
+
+> **Watch on YouTube:** [Preference Rlhf Data — System Design #Shorts](https://youtu.be/tswoshPKaUE)
+
 
 ![Design overview](docs/video/design-overview.gif)
 
